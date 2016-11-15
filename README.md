@@ -7,7 +7,7 @@ sin uso de algún framework, HTML5, Bootstrap, JavaScript, Jquery,Datatable plug
 AJAX para interactuar con php mediante JSON, base de datos MySql (PhpMyAdmin).
 	
 	
-	### Entorno
+### Entorno
 - Xampp-PhpMyAdmin
-    - db name: sistemaweb (import sistemaweb.sql)
+	- db name: sistemaweb (import sistemaweb.sql)
 -Editor de texto Sublime Text
