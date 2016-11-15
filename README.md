@@ -10,4 +10,5 @@ AJAX para interactuar con php mediante JSON, base de datos MySql (PhpMyAdmin).
 ### Entorno
 - Xampp-PhpMyAdmin
 	- db name: sistemaweb (import sistemaweb.sql)
--Editor de texto Sublime Text
+	
+- Editor de texto Sublime Text
