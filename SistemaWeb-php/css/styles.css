@@ -1,0 +1,33 @@
+*{
+	font-family: 'Cabin', sans-serif;
+}
+.modal-footer {   border-top: 0px; }
+body{
+	background-image: url("../img/seigaiha.png");
+}
+ 
+ #log{
+ 	width: 400px;
+ 	padding-top: 3%;
+ }
+ .container{
+ 	background-color: white;
+ 	margin-top: 5%;
+ 	padding: 50px;
+ }
+
+ #cerrar_boton{
+ 	float: right;
+ 	border-radius: 1%;
+ }
+
+ #Cabecera{
+ 	text-align: center;
+ }
+
+ hr {
+ 	border: 0; 
+ 	height: 2px; 
+ 	border-top: 1px dashed black; 
+ 	border-bottom: 1px dashed black;
+ }
